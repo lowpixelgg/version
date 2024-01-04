@@ -1,4 +1,5 @@
-# version
+# version (1.1.9-beta)
+
 
 - **[Misc]**
   - Arrumado as coordenadas do lobby 
